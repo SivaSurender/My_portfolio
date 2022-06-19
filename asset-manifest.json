@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My_portfolio/static/css/main.fc0000d4.css",
+    "main.js": "/My_portfolio/static/js/main.ce0f7954.js",
+    "static/js/787.1ed0c42c.chunk.js": "/My_portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/IMG_MJL__20201001_133022175uh.jpg": "/My_portfolio/static/media/IMG_MJL__20201001_133022175uh.771b6dbe307db8931b8d.jpg",
+    "static/media/quiz.jpg": "/My_portfolio/static/media/quiz.d091fc636c264085291e.jpg",
+    "static/media/skills.jpg": "/My_portfolio/static/media/skills.bdc4f3d4314191db2b03.jpg",
+    "static/media/weather.jpg": "/My_portfolio/static/media/weather.85212eb829a0e4f27e4a.jpg",
+    "static/media/todo.jpg": "/My_portfolio/static/media/todo.8caba79aeaca5523aea9.jpg",
+    "static/media/restaurant.jpg": "/My_portfolio/static/media/restaurant.4b63b424ac7650e0bc98.jpg",
+    "index.html": "/My_portfolio/index.html",
+    "main.fc0000d4.css.map": "/My_portfolio/static/css/main.fc0000d4.css.map",
+    "main.ce0f7954.js.map": "/My_portfolio/static/js/main.ce0f7954.js.map",
+    "787.1ed0c42c.chunk.js.map": "/My_portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc0000d4.css",
+    "static/js/main.ce0f7954.js"
+  ]
+}
