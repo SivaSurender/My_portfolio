@@ -1,0 +1,8 @@
+.topContainer{
+    background: url("../../assets/IMG_MJL__20201001_133022175uh.jpg");
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    box-shadow: inset 000 2000px rgba(0,0,0,0);
+}
